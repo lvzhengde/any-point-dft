@@ -1,0 +1,9 @@
+有关radix2^2 pipeline FFT processor设计的参考文章比较多，其中如下一篇比较详细。
+
+A New Approach to Pipeline FFT Processor
+Publisher: IEEE
+Authors: Shousheng He; M. Torkelson
+Published in: Proceedings of International Conference on Parallel Processing
+
+由于版权的原因，没有放在项目doc文件夹中。
+可以在IEEE网站查到全文。
